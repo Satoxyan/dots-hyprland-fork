@@ -1,6 +1,7 @@
 <div align="center">
     <h1>【 HyprWNC 】</h1>
     <h3>cause i know that "Windows Never Could"</h3>
+    <h4>(this repo is only for creating PR now and unmaintained, the maintained one is in <a href="https://github.com/Satoxyan/HyprWNC">here</a>)</h4>
 </div>
 
 <div align="center"> 
